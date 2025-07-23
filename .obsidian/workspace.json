@@ -85,10 +85,14 @@
             "id": "cd3467cabf135694",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_notes/POS分析アプリ/POSデータ可視化アプリ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "POSデータ可視化アプリ"
             }
           }
         ],
@@ -253,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -278,9 +282,11 @@
   },
   "active": "cd3467cabf135694",
   "lastOpenFiles": [
+    "2025-07-18.md",
+    "2025-07-17.md",
+    "無題のカンバン.md",
     "無題のファイル.canvas",
     "obsidian_notes/Notes/20250723112514.md",
-    "無題のカンバン.md",
     "obsidian_notes/Notes/20250717180453.md",
     "obsidian_notes/POS分析アプリ/POSデータ可視化アプリ.md",
     "arxiv",
@@ -291,9 +297,7 @@
     "screencapture/スクリーンショット 2025-07-22 14.00.43.png",
     "screencapture/スクリーンショット 2025-07-22 13.51.59.png",
     "screencapture/スクリーンショット 2025-07-22 13.57.41.png",
-    "2025-07-17.md",
     "screencapture",
-    "2025-07-18.md",
     "obsidian_notes/claude_code使い方/基本",
     "obsidian_notes/claude_code使い方",
     "obsidian_notes/Notes/CLAUDE.md",
