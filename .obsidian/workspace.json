@@ -1,0 +1,314 @@
+{
+  "main": {
+    "id": "efef7dbb1628e9e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b357a93943233ae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55e29884bcba6183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_notes/Notes/20250717180453.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250717180453"
+            }
+          },
+          {
+            "id": "59d74f39091d328f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "無題のカンバン.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "無題のカンバン"
+            }
+          },
+          {
+            "id": "36edf8f6497ab04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-07-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-17"
+            }
+          },
+          {
+            "id": "b03f58efaa80e636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_notes/Notes/20250717180453.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250717180453"
+            }
+          },
+          {
+            "id": "d2b8adb08c06a217",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "無題のカンバン.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": []
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "無題のカンバン"
+            }
+          },
+          {
+            "id": "cd3467cabf135694",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcf7580ce27c5f90",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffdbd570c96232c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "499dc0bc680e05fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "cdb0e1629c436ec4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "家",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "df01aab839bb6cfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc6e7ce656706c3e",
+    "type": "split",
+    "children": [
+      {
+        "id": "01baba17f453942f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "777f54536b60173c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Welcomeへのバックリンク"
+            }
+          },
+          {
+            "id": "c8284c37db88b8b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Welcomeからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "4d4fa9146658992b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "f992944d1520a6da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Welcomeのアウトライン"
+            }
+          },
+          {
+            "id": "23c497fb34e93b42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "1ca3b3bf62cde10c",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "65d8b5169a35d11a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cd3467cabf135694",
+  "lastOpenFiles": [
+    "無題のファイル.canvas",
+    "obsidian_notes/Notes/20250723112514.md",
+    "無題のカンバン.md",
+    "obsidian_notes/Notes/20250717180453.md",
+    "obsidian_notes/POS分析アプリ/POSデータ可視化アプリ.md",
+    "arxiv",
+    "obsidian_notes/geminicli使い方/基本",
+    "screencapture/スクリーンショット 2025-07-22 14.06.18.png",
+    "screencapture/スクリーンショット 2025-07-22 14.03.34.png",
+    "screencapture/スクリーンショット 2025-07-22 14.01.32.png",
+    "screencapture/スクリーンショット 2025-07-22 14.00.43.png",
+    "screencapture/スクリーンショット 2025-07-22 13.51.59.png",
+    "screencapture/スクリーンショット 2025-07-22 13.57.41.png",
+    "2025-07-17.md",
+    "screencapture",
+    "2025-07-18.md",
+    "obsidian_notes/claude_code使い方/基本",
+    "obsidian_notes/claude_code使い方",
+    "obsidian_notes/Notes/CLAUDE.md",
+    "obsidian_notes/Notes/20250717183409.md",
+    "obsidian_notes/Notes/20250717180709.md",
+    "template/uniquenote.md",
+    "templater/weeklynote_temp.md",
+    "<% moment(tp.file.title).add(1, 'W').format('YYYY-[W]WW') %>.md",
+    "templater/monthlynote_temp.md",
+    "templater/dailynote_temp.md",
+    "templater",
+    "Welcome.md",
+    "template",
+    "obsidian_notes/Notes 1",
+    "obsidian_notes/diary/weekly",
+    "obsidian_notes/diary/monthly"
+  ]
+}
